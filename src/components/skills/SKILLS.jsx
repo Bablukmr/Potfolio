@@ -1,11 +1,11 @@
 import React from 'react'
 import './SKILLS.css';
-import HTML from '../../assets/html.png'
-import CSS from '../../assets/cssb.png'
-import JS from '../../assets/js_large.png'
-import REACT from '../../assets/react.png'
-import REDUX from '../../assets/Redux-removebg-preview.png'
-import MUI from '../../assets/muilogo.png'
+import HTML from '../../assets/html.png';
+import CSS from '../../assets/cssb.png';
+import JS from '../../assets/js_large.png';
+import REACT from '../../assets/react.png';
+import REDUX from '../../assets/Redux-removebg-preview.png';
+import MUI from '../../assets/muilogo.png';
 
 export default function SKILLS() {
   return (
