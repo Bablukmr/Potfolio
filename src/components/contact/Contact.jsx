@@ -10,7 +10,7 @@ export default function Contect() {
       <h5>Get In Touch</h5>
       <h2>Contact Me</h2>
 <div className="container contact__container">
-  <div className="contact__options">
+          <div className="contact__options">
     <article className='contact__option'>
       <AiOutlineMail className='cantact__icon'/>
       <h4>Email</h4>

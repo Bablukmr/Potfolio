@@ -48,6 +48,7 @@ input , textarea{
     font-size: 1rem;
 }
 
+
 /* medium device TABLATE */
 @media screen and (max-width:1024px) {
    .contact__container{
@@ -62,6 +63,11 @@ input , textarea{
             grid-template-columns: 1fr;
             width: var(--container-width-sm);
            }
-
-      
+       /* section{
+        margin-top: 20%;
+       }
+       */
+       #contact{
+        margin-top: 32rem;
+       }
     }

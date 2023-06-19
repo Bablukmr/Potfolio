@@ -70,7 +70,11 @@ header{
 @media screen and (max-width:600px) {
 
   header{
-    height: 100vh;
+    height: 90vh;
+  }
+  .me{
+    
+    height: 20rem;
   }
 
 }
