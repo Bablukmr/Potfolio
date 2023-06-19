@@ -10,7 +10,7 @@ export default function Header() {
     <div className="container header__container">
      <h5>Hello I'm</h5>
      <h1>Bablu Kumar</h1>
-     <h5 className='text-light'>FrontEnd Developer</h5>
+     <h5 className='text-light'>Front-End Developer</h5>
      <CTA/>
      <HeaderSocial/>
      <div className="me">
