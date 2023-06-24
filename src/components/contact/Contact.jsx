@@ -29,7 +29,7 @@ export default function Contect() {
       <a href="https://api.whatsapp.com/send?phone+91******" target="blank" >Send A message</a>
     </article>
   </div>
-  <form action="https://formspree.io/f/mpzenywk" method="POST">
+  <form action="https://formspree.io/f/mlekqzpk" method="POST">
 <input type='text' name='name' placeholder='Name' required/>
 <input type='email' name='email' placeholder='Email' required/>
 <textarea name='message' rows='7' placeholder='Your message' required></textarea>
