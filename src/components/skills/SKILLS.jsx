@@ -9,6 +9,7 @@ import MUI from '../../assets/muilogo.png';
 import CHAKRA from '../../assets/Chakra-removebg-preview.png';
 import GITHUB from '../../assets/github_large.png';
 import BOOTSTRAP from '../../assets/bootstrap.jpg';
+import Native from '../../assets/natives.PNG';
 
 export default function SKILLS() {
   return (
@@ -28,6 +29,7 @@ export default function SKILLS() {
           <button><img src={CHAKRA} alt='IMG' className='buttons__img'/><h2>CHAKRA UI</h2> </button>
           <button><img src={GITHUB} alt='IMG' className='buttons__img'/><h2>GITHUB</h2> </button>
           <button><img src={BOOTSTRAP} alt='IMG' className='buttons__img'/><h2>BOOTSTRAP</h2> </button>
+          <button><img src={Native} alt='IMG' className='buttons__img' height='10' width='10'/><h2>React Native</h2> </button>
         </div>
       </div>
     </section>
