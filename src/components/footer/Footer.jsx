@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <div className={styles.footer_main}>
 <div className={styles.footer_name}><h4>Bablu Kumar</h4></div>
-      <div className={styles.footer_mid }>© 2023 All rights reserved.</div>
+      <div className={styles.footer_mid }>© 2023 </div>
       <div className={styles.footer_icon}> <a href="https://www.linkedin.com/in/bablukmr/" target="_LinkdIn">
             <LinkedInIcon />
           </a>
