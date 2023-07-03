@@ -1,3 +1,7 @@
+.portfolio_section{
+    height: 200vh;
+    overflow-x: scroll;
+}
 .portfolio__container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -22,7 +26,12 @@
     overflow: hidden;
 }
 .portfolio__items h3{
-    margin: 1.2rem 0 2rem;
+    margin: 1rem 0 1rem ;
+   
+}
+.portfolio__items p{
+    color: rgb(172, 172, 187);
+    margin-bottom: 1rem;
 }
 
 .portfolio__item-cta{
