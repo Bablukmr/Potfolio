@@ -31,11 +31,11 @@ My portfolio is deployed and can be accessed at https://potfolio-bablu.vercel.ap
 ## Technologies Used
 The portfolio is built using the following technologies:
 
-## HTML: 
+### HTML: 
 Used for structuring the web pages and content.
-## CSS:
+### CSS:
 Used for styling the website and creating an appealing visual design.
-## JavaScript: 
+### JavaScript: 
 Used for implementing functionality and interactions.
-## React.js:
+### React.js:
 A JavaScript library for building user interfaces, used for creating the components and managing the application state.
