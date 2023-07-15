@@ -21,14 +21,15 @@
 
 .about__me-image {
   border-radius: 2rem;
-  overflow: hidden;
+  /* overflow: hidden; */
   transform: rotate(10deg);
   transition: var(--transition);
 }
 
-/* .about__me-image img{
+
+.about__me-image img{
     border-radius: 2rem;
-} */
+}
 .about__me-image:hover {
   transform: rotate(0deg);
 }

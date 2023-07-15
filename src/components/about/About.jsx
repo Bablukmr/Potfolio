@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import ME from "../../assets/bablu.jpg";
+import ME from "../../assets/imgmebk.png";
 
 export default function About() {
   return (
