@@ -6,6 +6,8 @@ import FacebookIcon from "@mui/icons-material/Facebook";
 
 export default function Footer() {
   return (
+    <>
+    <br/><br/>
     <div className={styles.footer_main}>
 <div className={styles.footer_name}><h4>Bablu Kumar</h4></div>
       <div className={styles.footer_mid }>© 2023 </div>
@@ -20,6 +22,6 @@ export default function Footer() {
             {" "}
             <FacebookIcon />{" "}
           </a> </div>
-    </div>
+    </div></>
   )
 }
