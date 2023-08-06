@@ -16,9 +16,11 @@ export default function About() {
         </div>
         <div className="about__content">
           <div className="about__card">
-            <h3>Hello My Name Is Bablu Kumar, I am a Front-End Developer</h3>
+            <h1>Welcome to my portfolio!</h1>
+            <h3>My name is Bablu Kumar, and I am a dedicated Front-End Developer with a broad range of skills and expertise</h3>
             <br />
             <p>
+           In my journey as a web developer, I have honed my abilities in various technologies, including HTML, CSS, JavaScript (JS), React, Next.js, Redux, Material UI, Chakra UI, GitHub, Tailwind CSS, React Native, and MongoDB.<br/><br/>
               Passion-driven learner and a web developer with the ability to
               write clean, reusable, optimised code. Skilled and experienced at
               building and maintaining Front-End based responsive web
