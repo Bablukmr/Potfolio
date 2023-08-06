@@ -5,6 +5,7 @@ import IMG2 from "../../assets/img2.PNG";
 import IMG3 from "../../assets/img3.PNG";
 import IMG4 from "../../assets/Gym.PNG";
 import IMG5 from "../../assets/doc.PNG";
+import Blogger from "../../assets/Blogger.png";
 
 export default function Portfolio() {
   return (
@@ -138,6 +139,31 @@ export default function Portfolio() {
             </a>
             <a
               href="https://google-doc-bablukmr.vercel.app/"
+              target="blank"
+              className="btn btn-primary"
+            >
+              Live Demo
+            </a>
+          </div>
+        </article>
+        <article className="portfolio__items">
+          <div className="porfolio__item-image">
+            <img src={Blogger} alt="IMG3" />
+          </div>
+          <h3>Blogger-Application</h3>
+          <p>
+          full stack web application that provides users with an immersive and seamless blogging experience. By leveraging the power of Next.js and React.js, users can enjoy a dynamic, fast, and responsive platform for expressing their thoughts and ideas through captivating blog posts.
+          </p>
+          <div className="portfolio__item-cta">
+            <a
+              href="https://github.com/Bablukmr/blog-application"
+              className="btn"
+              target="blank"
+            >
+              Github
+            </a>
+            <a
+              href="https://blog-application-bk.vercel.app/"
               target="blank"
               className="btn btn-primary"
             >
