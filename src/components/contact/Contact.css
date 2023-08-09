@@ -51,6 +51,9 @@ input , textarea{
 
 /* medium device TABLATE */
 @media screen and (max-width:1024px) {
+    #contact{
+        height: 150vh;
+    }
    .contact__container{
     grid-template-columns: 1fr;
     gap: 2rem;
