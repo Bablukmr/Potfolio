@@ -25,6 +25,10 @@ background-color: #fff;
 }
 
 @media screen and (max-width:675px) {
+    #skills{
+        height: 150vh;
+        margin-top: 100vh;
+    }
     .skill__container{
         box-shadow:none;
         margin-left: 3rem;
