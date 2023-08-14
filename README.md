@@ -6,13 +6,10 @@ This portfolio serves as a comprehensive collection of my work, highlighting my 
 
 ### Features
 My portfolio includes the following features:
-
 ### Home: 
 Provides an introduction and overview of myself, including a brief bio and my areas of expertise.
-
 ### Projects: 
 Showcases a selection of my notable projects. Each project includes a description, key features, technologies used, and a link to the project itself or its repository.
-
 ### Experience: 
 Outlines my professional experience, including past roles, responsibilities, and notable achievements. It provides insights into my career journey and demonstrates my ability to deliver results.
 
