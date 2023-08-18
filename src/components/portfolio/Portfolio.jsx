@@ -5,7 +5,7 @@ import IMG2 from "../../assets/img2.PNG";
 import IMG3 from "../../assets/img3.PNG";
 import IMG4 from "../../assets/Gym.PNG";
 import IMG5 from "../../assets/doc.PNG";
-import Blogger from "../../assets/Blogger.png";
+import Blogger from "../../assets/blog.png";
 
 export default function Portfolio() {
   return (
