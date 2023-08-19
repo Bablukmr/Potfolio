@@ -15,7 +15,7 @@ export default function Contect() {
       <AiOutlineMail className='cantact__icon'/>
       <h4>Email</h4>
       <h5>bablukmr800@gmail.com</h5>
-      <a href="mailto:bablukmr900@gmail.com">Send A message</a>
+      <a href="mailto:bablukmr800@gmail.com">Send A message</a>
     </article>
     <article className='contact__option'>
       <AiOutlineLinkedin className='cantact__icon'/>
