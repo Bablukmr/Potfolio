@@ -1,7 +1,7 @@
 # Portfolio
 Welcome to my portfolio! This portfolio showcases my projects, accomplishments, and skills. It is deployed and can be accessed at https://potfolio-bablu.vercel.app/
 
-## About the Portfolio
+### About the Portfolio
 This portfolio serves as a comprehensive collection of my work, highlighting my projects, professional accomplishments, and the skills I have acquired. It is designed to provide an overview of my expertise and demonstrate my capabilities to potential clients, employers, or collaborators.
 
 ### Features
